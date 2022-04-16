@@ -29,6 +29,7 @@
 
 ## Курси
 
+- [Coursera](https://www.coursera.org)
 - [Udemy](https://www.udemy.com)
 
 ## Підкасти
