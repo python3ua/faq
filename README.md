@@ -4,6 +4,7 @@
 ## Корисна література
 
 - Mark Summerfield, Python 3 Programming in A Complete Introduction to the Python Language 
+- Eric Matthes, Python crash course
 - Mark Lutz, Learning Python, 5th Edition
 - Mark Lutz, Programming Python, 4th Edition
 - Mark Lutz, Python Pocket Reference, 5th Edition
@@ -34,7 +35,8 @@
 
 ## Підкасти
 
-TODO
+[ArjanCodes](https://www.youtube.com/c/ArjanCodes) en
+[CS50's Introduction to Programming with Python (CS50P) 2022](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) en
 
 ## Корисні ресурси
 
