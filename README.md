@@ -3,8 +3,8 @@
 
 ## Корисна література
 
-- Mark Summerfield, Python 3 Programming in A Complete Introduction to the Python Language 
 - Eric Matthes, Python crash course
+- Mark Summerfield, Python 3 Programming in A Complete Introduction to the Python Language 
 - Mark Lutz, Learning Python, 5th Edition
 - Mark Lutz, Programming Python, 4th Edition
 - Mark Lutz, Python Pocket Reference, 5th Edition
